@@ -1,0 +1,26 @@
+{
+    "sentiment": "positive",
+    "wordNData": [
+      {
+        "word": "This",
+        "weight": 0.1,
+        "color": "default"
+        
+      },
+      {
+        "word": "resterant",
+        "weight": 0.4,
+        "color": "primary"
+      },
+      {
+        "word": "is",
+        "weight": 0.3,
+        "color": "default"
+      },
+      {
+        "word": "fantastic",
+        "weight": 0.9,
+        "color": "secondary"
+      }
+    ]
+  }
